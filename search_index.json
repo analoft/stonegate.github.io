@@ -1,0 +1,9 @@
+[
+["index.html", "Project x Chapter 1 Preface", " Project x stonegate 2019-02-21 Chapter 1 Preface This Markdown documents is created as guide to demonstrate the code and data flow in different module of the project and understand the core functionality. "],
+["stonegate-file-module.html", "Chapter 2 StoneGate File Module", " Chapter 2 StoneGate File Module "],
+["repository-structure.html", "Chapter 3 Repository Structure", " Chapter 3 Repository Structure Here is a review of existing methods. "],
+["packages.html", "Chapter 4 Packages", " Chapter 4 Packages We describe Packages created and functionality in this chapter. "],
+["flow.html", "Chapter 5 Flow 5.1 1file.R 5.2 2file.R", " Chapter 5 Flow Some significant flows are demonstrated in this chapter. 5.1 1file.R 5.2 2file.R "],
+["final-words.html", "Chapter 6 Final Words", " Chapter 6 Final Words We have finished a nice book. "],
+["references.html", "References", " References "]
+]
